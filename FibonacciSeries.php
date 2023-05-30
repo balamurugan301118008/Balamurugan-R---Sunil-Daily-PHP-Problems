@@ -11,7 +11,6 @@ for ($i = 1; $i <= $input; $i++) {
     echo $total . "\n";
 }
 // outputs
-
 // 1
 // 2
 // 3

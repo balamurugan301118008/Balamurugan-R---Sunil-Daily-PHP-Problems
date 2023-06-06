@@ -8,5 +8,13 @@ function factorial($num)
     }
     return "Result: " . $factorial . "\n";
 }
-echo factorial(8);
+echo factorial(5);
+
+// outputs /
+// 5
+// 20
+// 60
+// 120
+// 120
+// Result: 120
 ?>

@@ -12,6 +12,7 @@ $values = array(
 $result = array_combine($keys,$values);
 print_r($result);
 
+//<------------output ----------- > 
 //$keysAndValues = array(
 //    "first"=>"dinosaur",
 //    "second"=>"pig",
